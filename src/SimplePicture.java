@@ -26,3 +26,4 @@ public class SimplePicture extends GraphicsProgram {
 		new SimplePicture().start();
 	}
 }
+//something
