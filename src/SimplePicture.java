@@ -9,7 +9,7 @@ public class SimplePicture extends GraphicsProgram {
 		setSize(SIZE, SIZE);
 	}
 	
-	public void run() {
+	public void run() { //Runs the program
 		GImage robot = new GImage("robot.png", 200, 100);
 		add(robot);
 		GLabel label = new GLabel("How I feel when using github!", 200, 400);
