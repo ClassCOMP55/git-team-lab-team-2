@@ -2,6 +2,7 @@ import acm.graphics.GImage;
 import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
 // adding commit
+// adding commit 2
 //Hi adding commit
 //commit 2
 public class SimplePicture extends GraphicsProgram {
