@@ -18,7 +18,7 @@ public class SimplePicture extends GraphicsProgram {
 		GLabel label = new GLabel("How I feel when I wasn't using git", 300, 300);
 		add(label);
 	} //Worms time
-
+	//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAa
 	public static void main(String[] args) {
 		new SimplePicture().start();
 	}
