@@ -3,6 +3,7 @@ import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
 
 public class SimplePicture extends GraphicsProgram {
+	private static final String IMAGE_FILENAME = "robot.png";
 	public static int SIZE = 700;
 	
 	public void init() {
@@ -10,7 +11,7 @@ public class SimplePicture extends GraphicsProgram {
 	}
 	
 	public void run() { //Runs the program
-		GImage robot = new GImage("robot.png", 200, 100);
+		GImage robot = new GImage(IMAGE_FILENAME, 200, 100);
 		add(robot);
 		GLabel label = new GLabel("How I feel when using github!", 200, 400);
 		add(label);
