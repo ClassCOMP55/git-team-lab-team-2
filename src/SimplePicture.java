@@ -1,7 +1,7 @@
 import acm.graphics.GImage;
 import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
-
+// adding commit
 //Hi adding commit
 //commit 2
 public class SimplePicture extends GraphicsProgram {
@@ -18,9 +18,7 @@ public class SimplePicture extends GraphicsProgram {
 
 
 		add(robot);
-
 		GLabel label = new GLabel("How I feel happy when I wasn't using gitter", 300, 300);
-
 		add(label);
 	} //Worms time
 	//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAa
