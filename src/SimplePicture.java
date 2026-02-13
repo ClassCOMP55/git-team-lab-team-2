@@ -5,7 +5,7 @@ import acm.program.GraphicsProgram;
 //Hi adding commit
 //commit 2
 public class SimplePicture extends GraphicsProgram {
-	private static final String IMAGE_FILENAME = "robot.png";
+	private static final String IMAGE_FRIEND = "robot.png";
 	public static int SIZE = 700;
 	//I love causing conflict
 	public void init() {
@@ -13,7 +13,7 @@ public class SimplePicture extends GraphicsProgram {
 	}
 	//Worms time.
 	public void run() { //Runs the program
-		GImage robot = new GImage(IMAGE_FILENAME, 200, 200);
+		GImage robot = new GImage(IMAGE_FRIEND, 200, 200);
 		add(robot);
 		GLabel label = new GLabel("How I feel when I wasn't using git", 300, 300);
 		add(label);
