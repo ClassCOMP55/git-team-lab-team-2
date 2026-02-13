@@ -18,7 +18,11 @@ public class SimplePicture extends GraphicsProgram {
 
 
 		add(robot);
+<<<<<<< HEAD
 		GLabel label = new GLabel("How I feel happy when I wasn't using gitter", 300, 300);
+=======
+		GLabel label = new GLabel("How I feel sad when I wasn't using gitter", 300, 300);
+>>>>>>> branch 'master' of https://github.com/ClassCOMP55/git-team-lab-team-2
 		add(label);
 	} //Worms time
 	//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAa
