@@ -3,6 +3,7 @@ import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
 
 //Hi adding commit
+//commit 2
 public class SimplePicture extends GraphicsProgram {
 	private static final String IMAGE_FILENAME = "robot.png";
 	public static int SIZE = 700;
