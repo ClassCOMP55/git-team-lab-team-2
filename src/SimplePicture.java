@@ -13,7 +13,7 @@ public class SimplePicture extends GraphicsProgram {
 	}
 	//Worms time.
 	public void run() { //Runs the program
-		GImage robot = new GImage(IMAGE_FRIEND, 200, 200);
+		GImage robot = new GImage(IMAGE_FRIEND, 200, 400);
 		add(robot);
 		GLabel label = new GLabel("How I feel when I wasn't using git", 300, 300);
 		add(label);
