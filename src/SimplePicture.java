@@ -18,7 +18,7 @@ public class SimplePicture extends GraphicsProgram {
 
 
 		add(robot);
-		GLabel label = new GLabel("How I feel when I wasn't using gitter", 300, 300);
+		GLabel label = new GLabel("How I feel sad when I wasn't using gitter", 300, 300);
 		add(label);
 	} //Worms time
 	//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAa
