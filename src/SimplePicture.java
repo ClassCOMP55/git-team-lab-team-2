@@ -15,7 +15,7 @@ public class SimplePicture extends GraphicsProgram {
 	public void run() { //Runs the program
 		GImage robot = new GImage(IMAGE_FRIEND, 200, 400);
 		add(robot);
-		GLabel label = new GLabel("THE AGONY! THE SUFFERING! AAAAAAAAAAAAAAAAA", 600, 150);
+		GLabel label = new GLabel("How I feel when I wasn't using gitter", 300, 300);
 		add(label);
 	} //Worms time
 	//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAa
